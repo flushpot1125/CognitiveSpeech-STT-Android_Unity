@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Takayuki/AndroidStudioProjects/BingSpeechAPI_Unity_git/Cognitive-Speech-STT-Android-master_org/samples/SpeechRecoExample/build/intermediates/exploded-aar/com.microsoft.projectoxford/speechrecognition/1.1.0/jars/libs/SpeechSDK.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="8f6ab181305becb7218adaa4c54fb9a2a6ce061a">
+        <dex dex="/Users/Takayuki/AndroidStudioProjects/BingSpeechAPI_Unity_git/Cognitive-Speech-STT-Android-master_org/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10/SpeechSDK_c9aeb7440a13e2231681e702c0a7b628dc881b3f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Takayuki/AndroidStudioProjects/BingSpeechAPI_Unity_git/Cognitive-Speech-STT-Android-master_org/samples/SpeechRecoExample/build/intermediates/incremental-classes/arm/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="163bac53d302119b27c03e0c5b1304ae06faa71c">
+        <dex dex="/Users/Takayuki/AndroidStudioProjects/BingSpeechAPI_Unity_git/Cognitive-Speech-STT-Android-master_org/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10/instant-run-bootstrap_69dc98bf2e64b2ead44760e49827c8830c2a89d3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Takayuki/AndroidStudioProjects/BingSpeechAPI_Unity_git/Cognitive-Speech-STT-Android-master_org/samples/SpeechRecoExample/build/intermediates/exploded-aar/com.microsoft.projectoxford/speechrecognition/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="576890675721e71dfd57bb76dc64e72825c635b3">
+        <dex dex="/Users/Takayuki/AndroidStudioProjects/BingSpeechAPI_Unity_git/Cognitive-Speech-STT-Android-master_org/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10/com.microsoft.projectoxford-speechrecognition-1.1.0_dbc66864ffe13da4043d9d2d94fd2780d5e690a1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Takayuki/AndroidStudioProjects/BingSpeechAPI_Unity_git/Cognitive-Speech-STT-Android-master_org/samples/SpeechRecoExample/build/intermediates/incremental-runtime-classes/arm/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="6392ffc73c80500f07480b565c41ade386ed9760">
+        <dex dex="/Users/Takayuki/AndroidStudioProjects/BingSpeechAPI_Unity_git/Cognitive-Speech-STT-Android-master_org/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10/instant-run_a4148cc0b5aa2e251e7026381887d38b86d26546/classes.dex" />
+    </item>
+
+</items>
